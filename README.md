@@ -1,16 +1,16 @@
-# Disaster Data Analysis Labs
+# Disaster Data Analysis project
 
 This repository contains three lab notebooks for analyzing disaster data using Python.
 
 ## Notebooks
-- Understanding_Disaster_data.ipynb  
+-  1 Understanding_Disaster_data.ipynb  
   Exploratory analysis of the disaster dataset.
 
-- Data_Quality.ipynb  
+-2  Data_Quality.ipynb  
   Data quality assessment and cleaning steps.
 
-- data_preprocessing_and_Modeling.ipynb  
-  Data preprocessing, feature engineering, and modeling.
+-  3 data_preprocessing_and_Modeling.ipynb  
+  Data preprocessing and modeling.
 
 ## Tools
 - Python
